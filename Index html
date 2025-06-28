@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Verifying...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>
+    function redirect() {
+      setTimeout(function() {
+        window.location.href = "https://www.profitableratecpm.com/yba15dsigs?key=d82a94dca127b2d4cb49e2d335020a7d";
+      }, Math.floor(Math.random() * (12000 - 8000 + 1)) + 8000);
+    }
+  </script>
+</head>
+<body onload="redirect()">
+  <h2 style="text-align:center;margin-top:20%;">🔒 Verifying your browser... Please wait.</h2>
+</body>
+</html>
